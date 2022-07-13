@@ -2,5 +2,13 @@
   {
     "package": "r4googleads",
     "oncran": true
+  },
+  {
+    "package": "RCriteo",
+    "oncran": true
+  },
+  {
+    "package": "RSmartlyIO",
+    "oncran": true
   }
 ]
