@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "r4googleads"]
-	path = r4googleads
-	url = https://github.com/banboo-data/r4googleads
+[submodule "RSmartlyIO"]
+	path = RSmartlyIO
+	url = https://github.com/banboo-data/rsmartlyio
 	shallow = true
 	registered = true
 [submodule "RCriteo"]
@@ -13,8 +13,8 @@
 	url = https://github.com/banboo-data/rcriteo
 	shallow = true
 	registered = true
-[submodule "RSmartlyIO"]
-	path = RSmartlyIO
-	url = https://github.com/banboo-data/rsmartlyio
+[submodule "r4googleads"]
+	path = r4googleads
+	url = https://github.com/banboo-data/r4googleads
 	shallow = true
 	registered = true

@@ -1,6 +1,6 @@
 [
   {
-    "package": "r4googleads",
+    "package": "RSmartlyIO",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "RSmartlyIO",
+    "package": "r4googleads",
     "oncran": true
   }
 ]
