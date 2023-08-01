@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "r4googleads"]
-	path = r4googleads
-	url = https://github.com/banboo-data/r4googleads
 [submodule "RCriteo"]
 	path = RCriteo
 	url = https://github.com/banboo-data/rcriteo
 [submodule "RSmartlyIO"]
 	path = RSmartlyIO
 	url = https://github.com/banboo-data/rsmartlyio
+[submodule "r4googleads"]
+	path = r4googleads
+	url = https://github.com/banboo-data/r4googleads
